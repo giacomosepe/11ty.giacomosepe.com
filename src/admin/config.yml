@@ -20,7 +20,7 @@ collections:
       - { label: "Image Alternative text", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
-  - name: "hero_snippet"
+  - name: "content"
     label: "Hero section"
     folder: "src/_includes/content"
     fields:
