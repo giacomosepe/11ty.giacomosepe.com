@@ -25,5 +25,6 @@ collections:
     folder: "src/_includes/content"
     fields:
       - { label: "Hero text", name: "hero_snippet", widget: "string" }
+      - { label: "Tagline", name: "tagline", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Hero image", name: hero_image, widget: "image" }
