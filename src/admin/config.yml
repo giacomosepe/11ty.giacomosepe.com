@@ -20,3 +20,10 @@ collections:
       - { label: "Image Alternative text", name: "imageAlt", widget: "string" }
       - { label: "Body", name: "body", widget: "markdown" }
       - { label: "Tags", name: "tags", widget: "list", default: ["post"] }
+  - name: "hero_snippet"
+    label: "Hero section"
+    folder: "src/_includes/content"
+    fields:
+      - { label: "Hero text", name: "hero_snippet", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Hero image", name: hero_image, widget: "image" }
