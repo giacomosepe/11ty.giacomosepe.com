@@ -1,14 +1,13 @@
 ---
 author: Kevin Powell
-title: Not sure what to add here
-description: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-  Perferendis accusantium sit illo neque rem omnis quaerat, nam similique vitae
-  delectus ad magni vel quo maxime, magnam placeat. Reprehenderit, distinctio
-  aliquam?
-company: this is a new com
+title: Launch of new business inside Simmetrico Agency
+description: Simmetrico agency wanted to create a product to increase revenue
+  and margins. The CEO needed a product specialist to understand who were
+  potential clients, who were the main competitors, what pricing was acceptable
+company: Simmetrico Communication agency
 date: 2021-05-01
-image: /assets/blog/article-1.jpg
-imageAlt: This is a test
+image: assets/blog/simmetrico-logo1.png
+imageAlt: Here Simmetricos logo
 tags:
   - post
   - featured
