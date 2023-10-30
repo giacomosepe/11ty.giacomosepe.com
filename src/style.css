@@ -5,8 +5,8 @@
 	--fs-600: 1.875rem;
 	--fs-700: 2rem;
 
-	--ff-body: "Poppins", sans-serif;
-	--ff-heading: "Playfair Display", serif;
+	--ff-body: "Helvetica", sans-serif;
+	--ff-heading: "Helvetica", serif;
 
 	--fw-400: 400;
 	--fw-700: 700;
@@ -114,6 +114,10 @@ select {
 		transition-duration: 0.01ms !important;
 		scroll-behavior: auto !important;
 	}
+}
+
+.logo-box {
+	text-align: left;
 }
 
 /* //////////////////////
