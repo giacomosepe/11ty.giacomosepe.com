@@ -147,7 +147,7 @@ h4 {
 	font-size: 1.1em;
 	font-weight: var(--fw-500);
 	color: var(--clr-neutral-300);
-	text-align: left;
+	text-align: justify;
 }
 
 strong {

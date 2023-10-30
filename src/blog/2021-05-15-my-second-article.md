@@ -1,6 +1,6 @@
 ---
 title: My Second Article
-author: Kevin Powell
+company: Kevin Powell
 date: 2021-05-15
 image: /assets/blog/article-2.jpg
 imageAlt: This is a test
