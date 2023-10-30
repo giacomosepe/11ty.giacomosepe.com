@@ -1,4 +1,5 @@
 <footer class="site-footer">
+	{% include "logo.njk" %}
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
 		viewBox="0 0 114 26.6"
@@ -11,4 +12,34 @@
 		/>
 	</svg>
 	<p>© Giacomo built this with 11ty, static site builder, a boring Sunday afternoon.</p>
+
+
+<!-- START - We recommend to place the below code in footer or bottom of your website html  -->
+<script>
+  window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';
+  window.LOCALE = 'en';
+  window.EMAIL_INVALID_MESSAGE = window.SMS_INVALID_MESSAGE = "The email is mispelled. Please enter a valid email  ";
+
+  window.REQUIRED_ERROR_MESSAGE = "This field must be filled correctly ";
+
+  window.GENERIC_INVALID_MESSAGE = "The email is mispelled. Please enter a valid email  ";
+
+
+
+
+  window.translation = {
+    common: {
+      selectedList: '{quantity} list selected',
+      selectedLists: '{quantity} lists selected'
+    }
+  };
+
+  var AUTOHIDE = Boolean(0);
+</script>
+<script defer src="https://sibforms.com/forms/end-form/build/main.js"></script>
+
+<script src="https://www.google.com/recaptcha/api.js?hl=en"></script>
+
+<!-- END - We recommend to place the above code in footer or bottom of your website html  -->
+<!-- End Brevo Form -->
 </footer>

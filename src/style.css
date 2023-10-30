@@ -14,7 +14,7 @@
 
 	--clr-primary-200: rgb(254, 255, 244);
 	--clr-primary-300: rgb(138, 174, 119);
-	--clr-primary-400: rgb(197, 205, 177);
+	--clr-primary-400: rgb(166, 187, 141);
 	--clr-primary-500: rgb(14, 15, 15);
 
 	--clr-neutral-100: hsla(0, 0%, 100%, 1);
@@ -120,6 +120,11 @@ select {
 	text-align: left;
 }
 
+.social-icons {
+	display: flex;
+	align-items: left;
+	justify-content: space-around;
+}
 /* //////////////////////
   General styling
   /////////////////////// */
