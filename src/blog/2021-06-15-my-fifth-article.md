@@ -1,6 +1,10 @@
 ---
-title: Experience 1
+title: Cotolicious restructuring and sale
 Company: Simmetrico
+description: Cotolicious had big challenges and profit issues. The goal was to
+  create an experience that customer would want and then find a buyer for the
+  company
+company: Shareholder of Cotolicious
 date: 2021-06-15
 image: /assets/blog/article-5.jpg
 imageAlt: This is a test
