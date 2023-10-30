@@ -6,7 +6,7 @@ description: Cotolicious had big challenges and profit issues. The goal was to
   company
 company: Shareholder of Cotolicious
 date: 2021-06-15
-image: /assets/blog/article-5.jpg
+image: assets/blog/cotolicious-logo-red.jpg
 imageAlt: This is a test
 ---
 
